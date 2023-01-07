@@ -1,0 +1,6 @@
+DATE = "date"
+TEAM1_NAME = "team1Name"
+TEAM2_NAME = "team2Name"
+TEAM1_ODDS = "team1Odds"
+DRAW_ODDS = "drawOdds"
+TEAM2_ODDS = "team2Odds"

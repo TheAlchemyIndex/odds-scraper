@@ -1,0 +1,134 @@
+﻿date,team1Name,team2Name,team1Odds,drawOdds,team2Odds
+24/Oct/2020,Exeter,Wasps,1.2,27.11,4.73
+10/Oct/2020,Exeter,Bath,1.23,25.6,4.27
+10/Oct/2020,Wasps,Bristol,1.72,22.4,2.1799999999999997
+04/Oct/2020,Leicester,Harlequins,1.54,22.33,2.5700000000000003
+04/Oct/2020,London Irish,Bristol,6.12,32.22,1.12
+04/Oct/2020,Saracens,Bath,1.79,21.89,2.06
+04/Oct/2020,Wasps,Exeter,1.06,37.56,8.42
+30/Sep/2020,Bristol,Leicester,1.03,43.44,11.64
+30/Sep/2020,Exeter,London Irish,1.3,24.44,3.66
+30/Sep/2020,Worcester,Saracens,1.26,24.78,4.1
+29/Sep/2020,Northampton,Sale,3.29,23.75,1.35
+28/Sep/2020,Harlequins,Wasps,2.45,22.11,1.58
+22/Sep/2020,Bath,Gloucester ,1.19,27.63,4.73
+14/Sep/2020,Gloucester,Harlequins,1.42,23.33,2.9
+13/Sep/2020,Saracens,Exeter,1.53,23.22,2.52
+13/Sep/2020,London Irish,Worcester,2.16,22.0,1.71
+13/Sep/2020,Sale,Bath,1.33,23.38,3.37
+13/Sep/2020,Leicester,Northampton,2.65,22.67,1.5
+13/Sep/2020,Wasps,Bristol,1.06,38.33,8.43
+09/Sep/2020,Bath,Worcester,1.07,36.89,8.58
+09/Sep/2020,London Irish,Harlequins,5.23,31.14,1.15
+09/Sep/2020,Sale,Saracens,1.21,28.89,4.67
+09/Sep/2020,Exeter,Gloucester,1.01,35.86,16.11
+09/Sep/2020,Wasps,Leicester,1.04,41.88,10.04
+08/Sep/2020,Bristol,Northampton,1.07,37.33,8.04
+05/Sep/2020,Gloucester,London Irish,1.29,26.2,3.69
+05/Sep/2020,Leicester,Sale,3.31,24.0,1.35
+05/Sep/2020,Harlequins,Bath,1.73,22.5,2.16
+05/Sep/2020,Saracens,Wasps,1.05,42.0,9.55
+04/Sep/2020,Northampton,Exeter,1.71,21.3,2.2
+04/Sep/2020,Worcester,Bristol,4.13,25.2,1.23
+31/Aug/2020,Bath,Wasps,1.3599999999999999,24.22,3.23
+31/Aug/2020,London Irish,Saracens,16.0,41.0,1.01
+30/Aug/2020,Gloucester,Leicester,1.04,38.5,9.67
+30/Aug/2020,Exeter,Worcester,1.01,37.14,16.96
+30/Aug/2020,Harlequins,Northampton,1.29,25.0,3.67
+29/Aug/2020,Sale,Bristol,1.07,35.63,8.25
+26/Aug/2020,Northampton,Bath,1.35,22.89,3.27
+26/Aug/2020,Leicester,London Irish,1.16,28.38,5.2
+26/Aug/2020,Saracens,Gloucester,1.83,22.56,2.01
+26/Aug/2020,Worcester,Harlequins,1.46,21.44,2.8
+25/Aug/2020,Bristol,Exeter,1.27,24.56,3.85
+25/Aug/2020,Wasps,Sale,1.19,28.56,4.66
+22/Aug/2020,Leicester,Bath,5.18,29.44,1.16
+22/Aug/2020,London Irish,Northampton,2.98,21.67,1.41
+22/Aug/2020,Saracens,Harlequins,1.34,24.0,3.3
+21/Aug/2020,Gloucester,Bristol,2.05,21.0,1.79
+21/Aug/2020,Wasps,Worcester,1.12,31.0,6.24
+21/Aug/2020,Sale,Exeter,2.08,21.22,1.8
+16/Aug/2020,Northampton,Wasps,1.55,21.61,2.5
+15/Aug/2020,Bristol,Saracens,1.47,23.25,2.73
+15/Aug/2020,Bath,London Irish,1.2,28.22,4.529999999999999
+15/Aug/2020,Exeter,Leicester,1.06,31.75,8.76
+15/Aug/2020,Worcester,Gloucester,2.4699999999999998,21.56,1.5699999999999998
+14/Aug/2020,Harlequins,Sale,2.9,22.89,1.43
+08/Mar/2020,Bristol,Harlequins,1.28,24.31,3.87
+07/Mar/2020,Exeter,Bath,1.16,30.43,5.22
+07/Mar/2020,Wasps,Gloucester,1.54,22.98,2.56
+07/Mar/2020,Saracens,Leicester,1.09,33.96,7.05
+06/Mar/2020,Sale,London Irish,1.11,32.510000000000005,6.61
+06/Mar/2020,Worcester,Northampton,2.54,21.63,1.55
+01/Mar/2020,Bath,Bristol,1.46,19.71,2.84
+01/Mar/2020,London Irish,Wasps,1.71,20.79,2.1799999999999997
+29/Feb/2020,Harlequins,Exeter,3.13,21.96,1.37
+29/Feb/2020,Leicester,Worcester,1.46,21.16,2.75
+29/Feb/2020,Northampton,Saracens,1.52,21.13,2.59
+28/Feb/2020,Gloucester,Sale,1.5699999999999998,19.61,2.5
+23/Feb/2020,Bristol,Worcester,1.2,27.43,4.62
+23/Feb/2020,Exeter,Northampton,1.13,26.43,5.91
+22/Feb/2020,Bath,Harlequins,1.53,20.51,2.59
+22/Feb/2020,London Irish,Gloucester,1.79,20.58,2.05
+21/Feb/2020,Sale,Leicester,1.11,29.77,6.6
+21/Feb/2020,Wasps,Saracens,1.9,21.48,1.96
+16/Feb/2020,Northampton,Bristol,1.48,19.72,2.7800000000000002
+15/Feb/2020,Harlequins,London Irish,1.33,20.78,3.49
+15/Feb/2020,Leicester,Wasps,1.54,19.39,2.59
+15/Feb/2020,Saracens,Sale,2.2800000000000002,17.97,1.69
+15/Feb/2020,Worcester,Bath,2.06,18.16,1.8199999999999998
+14/Feb/2020,Gloucester,Exeter,1.74,20.21,2.15
+26/Jan/2020,Harlequins,Saracens,1.5,20.68,2.74
+25/Jan/2020,Bath,Leicester,1.43,20.71,2.92
+25/Jan/2020,Bristol,Gloucester,1.8900000000000001,19.79,1.96
+25/Jan/2020,Exeter,Sale,1.33,22.58,3.39
+25/Jan/2020,Worcester,Wasps,1.72,20.65,2.19
+24/Jan/2020,Northampton,London Irish,1.12,32.260000000000005,6.1
+05/Jan/2020,Wasps,Northampton,2.2800000000000002,20.9,1.65
+05/Jan/2020,London Irish,Exeter,6.17,30.19,1.12
+04/Jan/2020,Gloucester,Bath,1.56,20.69,2.51
+04/Jan/2020,Saracens,Worcester,1.01,44.33,14.64
+04/Jan/2020,Leicester,Bristol,1.47,21.66,2.8
+03/Jan/2020,Sale,Harlequins,1.29,22.27,3.73
+29/Dec/2019,Exeter,Saracens,2.19,20.02,1.72
+28/Dec/2019,Harlequins,Leicester,1.54,21.01,2.56
+28/Dec/2019,Bath,Sale,1.5899999999999999,20.31,2.4299999999999997
+28/Dec/2019,Worcester,London Irish,1.3599999999999999,22.44,3.24
+28/Dec/2019,Northampton,Gloucester,1.43,21.62,2.88
+27/Dec/2019,Bristol,Wasps,1.22,23.43,4.38
+22/Dec/2019,London Irish,Bath,1.95,20.42,1.9100000000000001
+21/Dec/2019,Leicester,Exeter,2.49,20.19,1.58
+21/Dec/2019,Wasps,Harlequins,1.73,20.38,2.16
+21/Dec/2019,Sale,Northampton,1.62,20.22,2.3600000000000003
+21/Dec/2019,Saracens,Bristol,1.07,34.66,7.97
+20/Dec/2019,Gloucester,Worcester,1.22,24.82,4.359999999999999
+01/Dec/2019,Bristol,London Irish,1.1400000000000001,28.02,5.57
+01/Dec/2019,Harlequins,Gloucester,1.73,19.51,2.1799999999999997
+30/Nov/2019,Exeter,Wasps,1.09,33.42,7.32
+30/Nov/2019,Northampton,Leicester,1.48,22.64,2.77
+30/Nov/2019,Worcester,Sale,2.25,20.19,1.69
+29/Nov/2019,Bath,Saracens,4.890000000000001,26.77,1.19
+10/Nov/2019,Exeter,Bristol,1.17,28.89,5.1
+10/Nov/2019,London Irish,Leicester,1.67,20.37,2.2800000000000002
+09/Nov/2019,Bath,Northampton,1.8399999999999999,19.47,2.0300000000000002
+09/Nov/2019,Gloucester,Saracens,1.35,20.97,3.33
+09/Nov/2019,Harlequins,Worcester,1.22,24.16,4.46
+08/Nov/2019,Sale,Wasps,1.24,23.58,4.12
+03/Nov/2019,Worcester,Exeter,3.71,22.9,1.29
+02/Nov/2019,Leicester,Gloucester,3.22,21.04,1.38
+02/Nov/2019,Saracens,London Irish,1.06,42.37,8.559999999999999
+02/Nov/2019,Wasps,Bath,1.46,20.72,2.8200000000000003
+01/Nov/2019,Bristol,Sale,1.5699999999999998,20.09,2.54
+01/Nov/2019,Northampton,Harlequins,1.45,20.75,2.87
+27/Oct/2019,Leicester,Saracens,2.73,21.19,1.49
+26/Oct/2019,Gloucester,Wasps,1.2,23.72,4.67
+26/Oct/2019,Harlequins,Bristol,1.4,19.79,3.04
+26/Oct/2019,London Irish,Sale,2.9699999999999998,20.43,1.43
+26/Oct/2019,Northampton,Worcester,1.22,23.1,4.390000000000001
+25/Oct/2019,Bath,Exeter,2.96,21.43,1.42
+20/Oct/2019,Wasps,London Irish,1.11,30.74,6.46
+19/Oct/2019,Exeter,Harlequins,1.24,25.87,4.220000000000001
+19/Oct/2019,Sale,Gloucester,1.45,21.57,2.85
+19/Oct/2019,Saracens,Northampton,1.1,31.76,6.8
+19/Oct/2019,Worcester,Leicester,1.37,21.11,3.22
+18/Oct/2019,Bristol,Bath,1.33,22.03,3.51

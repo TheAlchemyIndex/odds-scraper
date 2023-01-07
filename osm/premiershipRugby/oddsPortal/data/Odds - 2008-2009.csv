@@ -1,0 +1,107 @@
+﻿date,team1Name,team2Name,team1Odds,drawOdds,team2Odds
+16/May/2009,Leicester,London Irish,1.48,19.4,2.59
+25/Apr/2009,Bath,Saracens,1.13,28.0,5.38
+25/Apr/2009,Harlequins,Newcastle,1.17,23.5,4.6899999999999995
+25/Apr/2009,Leicester,Bristol,1.01,38.0,12.38
+25/Apr/2009,Sale,Northampton,1.24,23.25,3.91
+25/Apr/2009,Wasps,Gloucester,1.25,22.5,3.79
+25/Apr/2009,Worcester,London Irish,2.96,20.0,1.3900000000000001
+21/Apr/2009,Gloucester,Worcester,1.12,28.2,5.52
+19/Apr/2009,Newcastle,Bath,1.96,16.8,1.81
+19/Apr/2009,Bristol,Wasps,2.8,19.4,1.43
+19/Apr/2009,Saracens,Leicester,2.15,18.4,1.6600000000000001
+18/Apr/2009,Northampton,London Irish,1.5899999999999999,18.1,2.2800000000000002
+17/Apr/2009,Sale,Harlequins,1.43,19.8,2.74
+05/Apr/2009,Wasps,Newcastle,1.4,21.2,2.8200000000000003
+04/Apr/2009,Leicester,Sale,1.31,22.5,3.19
+04/Apr/2009,London Irish,Bristol,1.06,30.5,7.13
+04/Apr/2009,Northampton,Gloucester,1.62,18.5,2.2
+04/Apr/2009,Worcester,Saracens,1.8599999999999999,16.5,1.9
+04/Apr/2009,Bath,Harlequins,1.44,20.5,2.66
+29/Mar/2009,Saracens,Wasps,1.8399999999999999,17.0,1.94
+29/Mar/2009,Bristol,Worcester,1.81,17.0,1.98
+27/Mar/2009,Newcastle,Leicester,2.3899999999999997,19.4,1.54
+27/Mar/2009,Sale,Bath,1.49,19.8,2.54
+22/Mar/2009,Harlequins,Sale,1.38,20.67,2.92
+22/Mar/2009,Wasps,Bristol,1.05,32.0,8.0
+22/Mar/2009,Worcester,Gloucester,2.75,20.67,1.42
+22/Mar/2009,London Irish,Northampton,1.35,21.75,3.16
+21/Mar/2009,Leicester,Saracens,1.2,24.0,4.3
+21/Mar/2009,Bath,Newcastle,1.31,23.67,3.33
+15/Mar/2009,London Irish,Worcester,1.11,27.75,5.78
+15/Mar/2009,Saracens,Bath,2.24,18.75,1.63
+14/Mar/2009,Gloucester,Wasps,1.46,19.0,2.62
+14/Mar/2009,Northampton,Sale,1.47,19.0,2.58
+13/Mar/2009,Bristol,Leicester,4.46,23.5,1.19
+08/Mar/2009,Wasps,London Irish,1.5699999999999998,18.6,2.33
+08/Mar/2009,Sale,Newcastle,1.26,21.8,3.67
+07/Mar/2009,Worcester,Northampton,1.52,19.4,2.44
+07/Mar/2009,Leicester,Gloucester,1.53,19.4,2.4699999999999998
+07/Mar/2009,Bath,Bristol,1.04,32.5,8.5
+01/Mar/2009,Saracens,Sale,1.78,18.6,2.04
+01/Mar/2009,London Irish,Leicester,1.75,18.2,2.17
+28/Feb/2009,Gloucester,Bath,1.8,18.75,2.09
+28/Feb/2009,Northampton,Newcastle,1.8199999999999998,21.8,3.03
+28/Feb/2009,Worcester,Wasps,2.1,18.6,1.74
+22/Feb/2009,Wasps,Northampton,1.78,22.8,3.31
+21/Feb/2009,Leicester,Worcester,2.08,29.0,4.720000000000001
+21/Feb/2009,Bath,London Irish,1.8399999999999999,20.5,2.54
+20/Feb/2009,Newcastle,Saracens,1.83,17.6,1.94
+20/Feb/2009,Sale,Bristol,3.02,35.6,7.91
+15/Feb/2009,Wasps,Leicester,1.74,18.0,2.06
+14/Feb/2009,Gloucester,Sale,1.48,19.0,2.6
+14/Feb/2009,Northampton,Saracens,1.55,19.0,2.38
+14/Feb/2009,Worcester,Bath,2.13,19.0,1.6800000000000002
+13/Feb/2009,Bristol,Newcastle,1.56,2.34,1
+31/Jan/2009,Gloucester,London Irish,1.67,18.0,2.15
+11/Jan/2009,Newcastle,Gloucester,3.02,22.67,1.35
+11/Jan/2009,Saracens,Bristol,1.09,30.33,6.33
+10/Jan/2009,Northampton,Leicester,2.23,20.0,1.62
+09/Jan/2009,Sale,London Irish,1.5699999999999998,20.17,2.34
+04/Jan/2009,Leicester,Bath,1,1,1
+03/Jan/2009,Gloucester,Saracens,1.3,23.5,3.42
+03/Jan/2009,London Irish,Newcastle,1.06,30.0,7.88
+03/Jan/2009,Northampton,Bristol,1.23,23.5,4.07
+27/Dec/2008,Bristol,Gloucester,3.02,20.0,1.37
+27/Dec/2008,Newcastle,Worcester,1.77,18.0,2.0300000000000002
+27/Dec/2008,Bath,Northampton,1.2,26.0,4.18
+27/Dec/2008,Saracens,London Irish,1.77,18.0,2.0300000000000002
+26/Dec/2008,Sale,Wasps,1.34,21.67,3.2
+20/Dec/2008,London Irish,Gloucester,1.6099999999999999,17.5,2.27
+20/Dec/2008,Worcester,Bristol,1.1400000000000001,23.0,4.720000000000001
+20/Dec/2008,Bath,Sale,1.51,19.0,2.48
+20/Dec/2008,Wasps,Saracens,1.51,19.0,2.48
+20/Dec/2008,Leicester,Newcastle,1.04,27.0,8.030000000000001
+30/Nov/2008,Bristol,London Irish,2.5700000000000003,20.33,1.48
+30/Nov/2008,Saracens,Worcester,1.33,22.67,3.15
+29/Nov/2008,Gloucester,Northampton,1.17,27.33,4.470000000000001
+28/Nov/2008,Newcastle,Wasps,2.17,19.33,1.6800000000000002
+28/Nov/2008,Sale,Leicester,1.75,18.0,2.0700000000000003
+23/Nov/2008,London Irish,Saracens,1.45,21.0,2.65
+23/Nov/2008,Wasps,Sale,1.47,20.33,2.6100000000000003
+22/Nov/2008,Northampton,Bath,2.41,19.67,1.54
+21/Nov/2008,Gloucester,Bristol,1.12,31.0,5.28
+21/Nov/2008,Worcester,Newcastle,1.13,29.67,5.2
+16/Nov/2008,Bristol,Northampton,1.75,17.33,2.06
+16/Nov/2008,Newcastle,London Irish,2.4,19.67,1.55
+16/Nov/2008,Saracens,Gloucester,1.63,19.67,2.2199999999999998
+15/Nov/2008,Bath,Leicester,1.67,18.33,2.15
+14/Nov/2008,Sale,Worcester,1.3900000000000001,21.33,2.88
+02/Oct/2008,Worcester,Harlequins,1.67,21.67,2.12
+01/Oct/2008,Bristol,Saracens,2.35,20.33,1.55
+01/Oct/2008,Leicester,Northampton,1.12,26.33,5.25
+01/Oct/2008,London Irish,Sale,1.87,17.0,1.92
+01/Oct/2008,Wasps,Bath,1.41,21.33,2.75
+30/Sep/2008,Gloucester,Newcastle,1.1,28.33,5.73
+27/Sep/2008,Harlequins,London Irish,1.47,19.67,2.6
+27/Sep/2008,Saracens,Northampton,1.25,22.67,3.65
+27/Sep/2008,Bath,Worcester,1.26,22.67,3.63
+26/Sep/2008,Leicester,Wasps,1.33,21.0,3.17
+26/Sep/2008,Newcastle,Bristol,1.43,21.33,2.6799999999999997
+26/Sep/2008,Sale,Gloucester,1.63,18.0,2.23
+21/Sep/2008,Saracens,Newcastle,1.18,25.33,4.58
+20/Sep/2008,Gloucester,Harlequins,1.3900000000000001,19.67,2.92
+20/Sep/2008,London Irish,Bath,1.6600000000000001,18.67,2.1799999999999997
+20/Sep/2008,Northampton,Wasps,2.4,18.67,1.55
+20/Sep/2008,Worcester,Leicester,2.4699999999999998,18.67,1.52
+12/Sep/2008,Sale,Saracens,1.4,19.67,2.87

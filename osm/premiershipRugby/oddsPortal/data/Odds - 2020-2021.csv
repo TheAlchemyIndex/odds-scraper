@@ -1,0 +1,135 @@
+﻿date,team1Name,team2Name,team1Odds,drawOdds,team2Odds
+26/Jun/2021,Exeter,Harlequins ,1.23,27.5,4.17
+19/Jun/2021,Exeter,Sale,1.28,24.17,3.68
+19/Jun/2021,Bristol,Harlequins,1.21,25.67,4.359999999999999
+12/Jun/2021,Bath,Northampton,1.32,24.77,3.41
+12/Jun/2021,Bristol,London Irish,1.22,29.5,4.29
+12/Jun/2021,Exeter,Sale,1.23,29.31,4.16
+12/Jun/2021,Harlequins,Newcastle,1.16,29.77,5.13
+12/Jun/2021,Wasps,Leicester,1.49,22.27,2.69
+12/Jun/2021,Worcester,Gloucester ,1,1,1
+06/Jun/2021,Northampton,Exeter,4.66,26.69,1.2
+05/Jun/2021,London Irish,Wasps,1.67,22.12,2.25
+05/Jun/2021,Leicester,Bristol,2.8600000000000003,23.1,1.43
+05/Jun/2021,Newcastle,Worcester,1.26,26.38,3.91
+05/Jun/2021,Gloucester,Bath ,2.01,24.0,1.9100000000000001
+04/Jun/2021,Sale,Harlequins,1.04,39.42,10.27
+30/May/2021,Exeter,Newcastle,1.01,45.29,18.57
+29/May/2021,Northampton,Wasps,1.46,23.75,2.7800000000000002
+29/May/2021,Worcester,Leicester,2.77,22.67,1.46
+29/May/2021,Harlequins,Bath,1.25,27.08,3.97
+28/May/2021,Gloucester,London Irish,1.34,24.83,3.32
+28/May/2021,Sale,Bristol,2.19,22.33,1.69
+18/May/2021,London Irish,Exeter,5.93,28.42,1.13
+17/May/2021,Bristol,Gloucester,1.11,31.96,6.4
+17/May/2021,Newcastle,Northampton,2.1399999999999997,22.08,1.76
+15/May/2021,Leicester,Harlequins,1.9100000000000001,21.92,1.9100000000000001
+15/May/2021,Wasps,Worcester,1.11,31.0,6.49
+14/May/2021,Bath,Sale,2.63,22.69,1.5
+09/May/2021,Harlequins,Wasps,1.43,23.44,2.8200000000000003
+08/May/2021,Bath,Bristol,3.94,24.42,1.26
+08/May/2021,Exeter,Worcester,1.02,38.91,14.5
+08/May/2021,Newcastle,London Irish,1.6600000000000001,20.4,2.25
+08/May/2021,Northampton,Gloucester,1.29,23.75,3.65
+07/May/2021,Sale,Leicester,1.15,28.92,5.45
+25/Apr/2021,Wasps,Bath,1.7,22.42,2.13
+24/Apr/2021,Gloucester,Newcastle,1.29,25.33,3.69
+24/Apr/2021,Leicester,Northampton,1.62,22.25,2.35
+24/Apr/2021,Worcester,Sale,3.95,26.5,1.25
+24/Apr/2021,London Irish,Harlequins,3.36,24.58,1.32
+23/Apr/2021,Bristol,Exeter,2.83,22.58,1.43
+18/Apr/2021,Bath,Leicester,1.52,22.25,2.55
+17/Apr/2021,Harlequins,Worcester,1.08,31.42,7.58
+17/Apr/2021,Newcastle,Bristol,3.2,23.08,1.3599999999999999
+17/Apr/2021,Exeter,Wasps,1.21,27.67,4.34
+17/Apr/2021,Sale,Gloucester,1.29,24.75,3.65
+16/Apr/2021,Northampton,London Irish,1.3,24.42,3.51
+28/Mar/2021,Leicester,Newcastle,1.23,24.9,4.26
+27/Mar/2021,Wasps,Sale,1.5699999999999998,20.9,2.46
+27/Mar/2021,London Irish,Bath,2.71,21.5,1.48
+27/Mar/2021,Worcester,Northampton,2.7199999999999998,21.4,1.48
+27/Mar/2021,Bristol,Harlequins,1.51,21.5,2.63
+26/Mar/2021,Gloucester,Exeter,1.3599999999999999,22.0,3.18
+21/Mar/2021,Northampton,Bristol,2.1,20.9,1.77
+21/Mar/2021,Sale,London Irish,1.37,22.52,3.11
+20/Mar/2021,Exeter,Leicester,1.07,34.31,7.64
+20/Mar/2021,Bath,Worcester,1.09,30.5,7.13
+20/Mar/2021,Harlequins,Gloucester,1.08,34.7,7.32
+19/Mar/2021,Newcastle,Wasps,2.3,21.41,1.6400000000000001
+14/Mar/2021,London Irish,Worcester,1.3,24.3,3.58
+13/Mar/2021,Gloucester,Leicester,1.99,20.1,1.8599999999999999
+13/Mar/2021,Northampton,Sale,2.41,21.2,1.5899999999999999
+13/Mar/2021,Exeter,Harlequins,1.38,21.5,3.12
+13/Mar/2021,Newcastle,Bath,2.06,20.7,1.8
+12/Mar/2021,Bristol,Wasps,1.4,21.6,3.01
+07/Mar/2021,Harlequins,Northampton,1.29,25.22,3.69
+06/Mar/2021,Worcester,Bristol,3.17,22.11,1.37
+06/Mar/2021,Bath,Exeter,3.01,22.78,1.4
+06/Mar/2021,Wasps,Gloucester,1.3900000000000001,22.89,3.08
+05/Mar/2021,Sale,Newcastle,1.28,23.5,3.82
+05/Mar/2021,Leicester,London Irish,1.6800000000000002,21.2,2.27
+28/Feb/2021,Northampton,Bath,1.43,22.9,2.85
+27/Feb/2021,Gloucester,Worcester,1.46,21.6,2.8200000000000003
+27/Feb/2021,Newcastle,Harlequins,2.19,19.88,1.71
+27/Feb/2021,Wasps,London Irish,1.49,21.8,2.71
+27/Feb/2021,Bristol,Leicester,1.12,30.3,6.33
+26/Feb/2021,Sale,Exeter,2.0,21.15,1.83
+21/Feb/2021,London Irish,Bristol,3.32,22.78,1.34
+20/Feb/2021,Exeter,Northampton,1.15,23.11,5.19
+20/Feb/2021,Leicester,Wasps,2.0,19.11,1.85
+20/Feb/2021,Worcester,Newcastle,1,1,1
+20/Feb/2021,Harlequins,Sale,1.47,21.5,2.73
+19/Feb/2021,Bath,Gloucester,1.63,19.92,2.34
+14/Feb/2021,Worcester,Wasps,3.37,22.44,1.33
+13/Feb/2021,Northampton,Newcastle,1.4,21.0,2.95
+13/Feb/2021,Exeter,London Irish,1.17,26.78,5.12
+13/Feb/2021,Harlequins,Leicester,1.22,24.78,4.24
+12/Feb/2021,Sale,Bath,1.23,26.0,4.45
+12/Feb/2021,Gloucester,Bristol,3.32,23.44,1.34
+07/Feb/2021,Newcastle,Exeter,3.37,21.17,1.35
+06/Feb/2021,Leicester,Worcester,1.33,21.32,3.4
+06/Feb/2021,London Irish,Gloucester,1.5,20.37,2.69
+06/Feb/2021,Bath,Harlequins,2.6799999999999997,21.69,1.5
+06/Feb/2021,Wasps,Northampton,1.51,21.89,2.62
+05/Feb/2021,Bristol,Sale,1.34,24.44,3.36
+31/Jan/2021,Wasps,Harlequins,1.34,24.0,3.23
+31/Jan/2021,London Irish,Newcastle,2.12,20.14,1.77
+30/Jan/2021,Gloucester,Northampton,1.78,20.39,2.1
+30/Jan/2021,Worcester,Exeter,8.34,29.78,1.07
+29/Jan/2021,Bristol,Bath,1.23,24.67,4.18
+29/Jan/2021,Leicester,Sale,2.06,20.67,1.79
+10/Jan/2021,Harlequins,London Irish,1.21,27.22,4.45
+09/Jan/2021,Exeter,Bristol,1.3599999999999999,23.0,3.22
+09/Jan/2021,Northampton,Leicester,1,1,1
+09/Jan/2021,Newcastle,Gloucester,1.6400000000000001,21.0,2.3200000000000003
+08/Jan/2021,Sale,Worcester,1.16,28.56,5.29
+08/Jan/2021,Bath,Wasps,2.23,21.0,1.6800000000000002
+03/Jan/2021,Leicester,Bath,2.7199999999999998,19.81,1.52
+03/Jan/2021,London Irish,Northampton,1,1,1
+02/Jan/2021,Gloucester,Sale,1.81,19.82,2.04
+02/Jan/2021,Wasps,Exeter,1.94,20.94,1.9100000000000001
+01/Jan/2021,Worcester,Harlequins,1,1,1
+01/Jan/2021,Bristol,Newcastle,1.29,24.02,3.84
+27/Dec/2020,Sale,Wasps,1.46,20.64,2.75
+26/Dec/2020,Northampton,Worcester,1.33,21.5,3.36
+26/Dec/2020,Exeter,Gloucester,1.03,37.33,10.41
+26/Dec/2020,Harlequins,Bristol,2.6399999999999997,21.0,1.51
+26/Dec/2020,Newcastle,Leicester,1,1,1
+06/Dec/2020,Gloucester,Harlequins,2.15,19.89,1.73
+06/Dec/2020,London Irish,Sale,3.17,21.67,1.37
+05/Dec/2020,Leicester,Exeter,5.91,27.33,1.13
+05/Dec/2020,Wasps,Newcastle,1.29,22.5,3.73
+05/Dec/2020,Worcester,Bath,2.15,20.63,1.75
+04/Dec/2020,Bristol,Northampton,1.3900000000000001,21.89,3.06
+29/Nov/2020,London Irish,Leicester,2.04,19.5,1.8199999999999998
+28/Nov/2020,Exeter,Bath,1.12,30.25,6.13
+28/Nov/2020,Bristol,Worcester,1.3,23.33,3.62
+28/Nov/2020,Gloucester,Wasps,2.0300000000000002,21.22,1.81
+28/Nov/2020,Northampton,Harlequins,1.88,21.33,1.96
+27/Nov/2020,Newcastle,Sale,4.32,24.33,1.22
+22/Nov/2020,Wasps,Bristol,1.08,33.75,7.39
+21/Nov/2020,Leicester,Gloucester,2.26,21.5,1.6600000000000001
+21/Nov/2020,Worcester,London Irish,1.65,21.13,2.26
+21/Nov/2020,Bath,Newcastle,1.07,33.0,8.190000000000001
+20/Nov/2020,Sale,Northampton,1.15,27.5,5.39
+20/Nov/2020,Harlequins,Exeter,2.95,21.88,1.41

@@ -1,3 +1,8 @@
+from mos.premiershipRugby.oddsPortal.scraper.formatters.DateFormatter import date_formatter
+from mos.premiershipRugby.oddsPortal.scraper.formatters.OddsFormatter import odds_formatter
+from mos.premiershipRugby.oddsPortal.scraper.formatters.TeamNameFormatter import team_name_formatter
+
+
 def tag_extractor(divs):
     """Loops through a ResultSet of div tags and returns odds data about matches.
 
@@ -10,7 +15,6 @@ def tag_extractor(divs):
     date = ""
     team1 = ""
     team2 = ""
-    home_odds = ""
 
     # Gets main table of data
     table = divs.find("table", {"class": "table-main"})
@@ -18,43 +22,40 @@ def tag_extractor(divs):
     t_body = table.find("tbody")
 
     for tr in t_body:
-        # List to hold the odds for draws and away wins
-        draw_away_odds = []
+        # List to hold the odds for the match
+        match_odds = []
         # Gets date
         if tr['class'] == ['center', 'nob-border']:
-            date = tr.text
+            date = date_formatter(tr.text)
         elif tr['class'] == ['odd', 'deactivate']:
             for td in tr:
                 # Gets team names
                 if td['class'] == ['name', 'table-participant']:
                     teams = td.text.split(" - ")
-                    team1 = teams[0]
-                    team2 = teams[1]
-                # Gets home odds
-                elif td['class'] == ['result-ok', 'odds-nowrp']:
-                    home_odds = td.text
-                # Gets draw and away odds
-                elif td['class'] == ['odds-nowrp']:
-                    draw_away_odds.append(td.text)
-            match_odds = {"date": date, "team1": team1, "team2": team2, "homeOdds": home_odds,
-                          "drawOdds": draw_away_odds[0], "awayOdds": draw_away_odds[1]}
+                    team1 = team_name_formatter(teams[0])
+                    team2 = team_name_formatter(teams[1])
+                # Gets match odds
+                elif (td['class'] == ['result-ok', 'odds-nowrp']) | (td['class'] == ['odds-nowrp']):
+                    match_odds.append(td.text)
+            match_odds = {"date": date, "team1Name": team1, "team2Name": team2,
+                          "team1Odds": odds_formatter(match_odds[0]),
+                          "drawOdds": odds_formatter(match_odds[1]),
+                          "team2Odds": odds_formatter(match_odds[2])}
             odds.append(match_odds)
         elif tr['class'] == ['deactivate']:
             for td in tr:
                 # Gets team names
                 if td['class'] == ['name', 'table-participant']:
                     teams = td.text.split(" - ")
-                    team1 = teams[0]
-                    team2 = teams[1]
-                # Gets home odds
-                elif td['class'] == ['result-ok', 'odds-nowrp']:
-                    home_odds = td.text
-                # Gets draw and away odds
-                elif td['class'] == ['odds-nowrp']:
-                    draw_away_odds.append(td.text)
-            match_odds = {"date": date, "team1": team1, "team2": team2, "homeOdds": home_odds,
-                          "drawOdds": draw_away_odds[0], "awayOdds": draw_away_odds[1]}
+                    team1 = team_name_formatter(teams[0])
+                    team2 = team_name_formatter(teams[1])
+                # Gets match odds
+                elif (td['class'] == ['result-ok', 'odds-nowrp']) | (td['class'] == ['odds-nowrp']):
+                    match_odds.append(td.text)
+            match_odds = {"date": date, "team1Name": team1, "team2Name": team2,
+                          "team1Odds": odds_formatter(match_odds[0]),
+                          "drawOdds": odds_formatter(match_odds[1]),
+                          "team2Odds": odds_formatter(match_odds[2])}
             odds.append(match_odds)
 
-    print(odds)
     return odds

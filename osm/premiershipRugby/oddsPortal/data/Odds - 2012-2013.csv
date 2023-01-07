@@ -1,0 +1,136 @@
+﻿date,team1Name,team2Name,team1Odds,drawOdds,team2Odds
+25/May/2013,Leicester,Northampton,1.3900000000000001,21.67,3.18
+12/May/2013,Saracens,Northampton,1.29,21.17,3.66
+11/May/2013,Leicester,Harlequins,1.31,22.0,3.49
+04/May/2013,Exeter,Gloucester,1.4,21.2,2.99
+04/May/2013,Harlequins,Northampton,1.43,21.2,2.87
+04/May/2013,Leicester,London Irish,1.02,39.0,13.8
+04/May/2013,London Welsh,Worcester,2.2,19.4,1.7
+04/May/2013,Sale,Wasps,1.5,20.4,2.66
+04/May/2013,Saracens,Bath,1.06,34.0,8.2
+21/Apr/2013,Wasps,Exeter,1.46,20.67,2.7199999999999998
+20/Apr/2013,Northampton,Sale,1.05,32.83,9.42
+20/Apr/2013,Gloucester,Saracens,2.34,19.0,1.6099999999999999
+20/Apr/2013,London Irish,London Welsh,1.06,32.0,8.129999999999999
+20/Apr/2013,Worcester,Harlequins,2.96,21.0,1.4
+20/Apr/2013,Bath,Leicester,3.13,21.0,1.37
+14/Apr/2013,Leicester,Wasps,1.06,31.5,9.0
+14/Apr/2013,London Welsh,Northampton,3.85,22.83,1.26
+14/Apr/2013,Saracens,Worcester,1.06,31.83,8.25
+13/Apr/2013,Exeter,London Irish,1.3,21.83,3.51
+13/Apr/2013,Harlequins,Bath,1.26,21.5,3.85
+12/Apr/2013,Sale,Gloucester,18.67,1.72,1
+31/Mar/2013,London Irish,Sale,1.27,22.5,3.73
+30/Mar/2013,Northampton,Leicester,1.75,18.33,2.09
+30/Mar/2013,Wasps,Saracens,2.21,19.33,1.6800000000000002
+30/Mar/2013,Worcester,Exeter,1.6,19.0,2.34
+30/Mar/2013,Bath,London Welsh,1.1,30.0,6.33
+29/Mar/2013,Gloucester,Harlequins,1.74,18.2,2.1
+24/Mar/2013,Saracens,Harlequins,1.48,20.17,2.66
+23/Mar/2013,Exeter,Leicester,2.54,19.5,1.52
+23/Mar/2013,Wasps,Northampton,1.63,19.0,2.29
+23/Mar/2013,Gloucester,London Welsh,1.05,32.0,9.5
+23/Mar/2013,London Irish,Worcester,1.41,21.0,2.9299999999999997
+22/Mar/2013,Sale,Bath,2.1100000000000003,18.33,1.74
+03/Mar/2013,Saracens,London Welsh,1.01,41.0,14.75
+02/Mar/2013,Harlequins,Exeter,1.13,25.33,5.52
+02/Mar/2013,Leicester,Sale,1.07,31.5,7.73
+02/Mar/2013,Northampton,London Irish,1.17,23.17,4.8100000000000005
+01/Mar/2013,Bath,Gloucester,1.51,20.2,2.6399999999999997
+01/Mar/2013,Worcester,Wasps,1.79,18.4,2.0700000000000003
+24/Feb/2013,London Irish,Wasps,2.04,18.5,1.78
+23/Feb/2013,Leicester,Saracens,1.54,19.0,2.52
+23/Feb/2013,Exeter,London Welsh,1.17,24.83,4.8
+23/Feb/2013,Northampton,Bath,1.3599999999999999,21.0,3.17
+22/Feb/2013,Sale,Harlequins,2.56,19.17,1.51
+22/Feb/2013,Gloucester,Worcester,1.1400000000000001,25.0,5.42
+17/Feb/2013,London Welsh,Sale,2.06,18.0,1.78
+17/Feb/2013,Wasps,Gloucester,1.51,19.0,2.6100000000000003
+16/Feb/2013,Harlequins,Leicester,1.69,19.33,2.2
+16/Feb/2013,Saracens,Exeter,1.2,23.83,4.470000000000001
+16/Feb/2013,Worcester,Northampton,2.1,18.33,1.75
+16/Feb/2013,Bath,London Irish,1.27,22.0,3.74
+09/Feb/2013,Harlequins,Wasps,1.29,21.33,3.56
+09/Feb/2013,Leicester,London Welsh,1.05,32.83,9.58
+09/Feb/2013,London Irish,Saracens,2.33,18.67,1.6099999999999999
+09/Feb/2013,Bath,Worcester,1.26,22.33,3.85
+09/Feb/2013,Northampton,Gloucester,1.35,21.6,3.32
+08/Feb/2013,Sale,Exeter,1.62,19.33,2.31
+06/Jan/2013,London Welsh,Harlequins,4.529999999999999,24.6,1.19
+06/Jan/2013,Saracens,Sale,1.07,31.8,8.1
+06/Jan/2013,Wasps,Bath,1.45,20.4,2.79
+05/Jan/2013,Exeter,Northampton,1.74,19.2,2.1
+05/Jan/2013,Gloucester,London Irish,1.13,27.8,5.78
+04/Jan/2013,Worcester,Leicester,3.17,21.8,1.37
+30/Dec/2012,Saracens,Northampton,1.33,21.4,3.28
+29/Dec/2012,Leicester,Gloucester,1.28,22.4,3.7
+29/Dec/2012,Exeter,Bath,1.3900000000000001,20.2,2.9699999999999998
+29/Dec/2012,London Welsh,Wasps,2.4,20.0,1.55
+29/Dec/2012,Harlequins,London Irish,1.11,27.4,6.38
+28/Dec/2012,Sale,Worcester,1.53,19.2,2.51
+23/Dec/2012,Wasps,Sale,1.15,26.6,5.13
+22/Dec/2012,Northampton,Harlequins,1.63,17.5,2.35
+22/Dec/2012,Gloucester,Exeter,1.35,19.75,3.26
+22/Dec/2012,London Irish,Leicester,2.9699999999999998,19.75,1.41
+22/Dec/2012,Bath,Saracens,2.0700000000000003,17.0,1.78
+21/Dec/2012,Worcester,London Welsh,1.17,24.5,4.83
+02/Dec/2012,Saracens,Gloucester,1.35,21.0,3.2
+01/Dec/2012,Exeter,Wasps,1.31,20.83,3.48
+01/Dec/2012,London Welsh,London Irish,1.8399999999999999,17.83,1.98
+01/Dec/2012,Leicester,Bath,1.32,21.33,3.37
+30/Nov/2012,Harlequins,Worcester,1.17,22.83,4.779999999999999
+30/Nov/2012,Sale,Northampton,2.6100000000000003,20.0,1.5
+25/Nov/2012,London Irish,Exeter,1.67,19.08,2.21
+25/Nov/2012,Wasps,Leicester,1.8399999999999999,18.0,1.99
+24/Nov/2012,Northampton,London Welsh,1.05,29.33,8.5
+24/Nov/2012,Gloucester,Sale,1.22,23.33,4.21
+23/Nov/2012,Worcester,Saracens,1.96,17.33,1.8599999999999999
+23/Nov/2012,Bath,Harlequins,1.9100000000000001,17.33,1.9100000000000001
+04/Nov/2012,London Welsh,Bath,3.09,21.17,1.3599999999999999
+04/Nov/2012,Saracens,Wasps,1.13,26.0,5.36
+03/Nov/2012,Harlequins,Gloucester,1.38,20.5,3.01
+03/Nov/2012,Exeter,Worcester,1.29,21.17,3.6
+03/Nov/2012,Leicester,Northampton,1.21,23.33,4.32
+02/Nov/2012,Sale,London Irish,1.56,19.0,2.4699999999999998
+28/Oct/2012,Wasps,London Welsh,1.13,26.17,5.57
+28/Oct/2012,London Irish,Harlequins,2.54,18.83,1.53
+27/Oct/2012,Gloucester,Leicester,2.44,18.83,1.56
+27/Oct/2012,Northampton,Saracens,1.71,17.33,2.1799999999999997
+27/Oct/2012,Bath,Exeter,1.43,20.0,2.8200000000000003
+26/Oct/2012,Worcester,Sale,1.41,20.0,2.92
+07/Oct/2012,Wasps,Worcester,1.3599999999999999,21.0,3.1
+07/Oct/2012,London Welsh,Saracens,4.49,22.17,1.2
+06/Oct/2012,Exeter,Harlequins,2.3200000000000003,19.17,1.6099999999999999
+06/Oct/2012,London Irish,Northampton,2.95,21.0,1.3900000000000001
+06/Oct/2012,Gloucester,Bath,1.46,19.5,2.76
+05/Oct/2012,Sale,Leicester,3.65,22.33,1.28
+30/Sep/2012,London Welsh,Gloucester,2.8899999999999997,21.83,1.41
+30/Sep/2012,Harlequins,Saracens,1.53,19.17,2.51
+29/Sep/2012,Bath,Sale,1.27,22.83,3.74
+29/Sep/2012,Leicester,Exeter,1.17,24.83,4.71
+28/Sep/2012,Worcester,London Irish,1.52,18.5,2.54
+28/Sep/2012,Northampton,Wasps,1.16,24.83,4.720000000000001
+23/Sep/2012,Exeter,Saracens,2.4,18.5,1.58
+22/Sep/2012,Leicester,Harlequins,1.4,20.5,2.96
+22/Sep/2012,Gloucester,Wasps,1.42,21.0,2.83
+22/Sep/2012,London Irish,Bath,2.09,18.67,1.75
+22/Sep/2012,Northampton,Worcester,1.1,28.83,6.68
+21/Sep/2012,Sale,London Welsh,1.1,29.0,6.48
+16/Sep/2012,London Welsh,Exeter,4.45,22.83,1.2
+15/Sep/2012,Saracens,Leicester,1.87,18.33,1.94
+15/Sep/2012,Harlequins,Sale,1.1400000000000001,25.5,5.33
+15/Sep/2012,Wasps,London Irish,1.3599999999999999,21.67,3.17
+15/Sep/2012,Worcester,Gloucester,2.05,18.17,1.78
+14/Sep/2012,Bath,Northampton,1.94,18.33,1.88
+09/Sep/2012,Northampton,Exeter,1.19,22.33,4.5
+08/Sep/2012,Sale,Saracens,2.7199999999999998,19.33,1.46
+08/Sep/2012,Leicester,Worcester,1.05,33.0,8.71
+08/Sep/2012,London Irish,Gloucester,1.76,18.67,2.06
+08/Sep/2012,Bath,Wasps,1.43,20.67,2.79
+07/Sep/2012,Harlequins,London Welsh,1.03,35.83,10.08
+02/Sep/2012,London Welsh,Leicester,6.33,28.0,1.11
+01/Sep/2012,Saracens,London Irish,1.27,22.17,3.7
+01/Sep/2012,Exeter,Sale,1.58,18.67,2.4
+01/Sep/2012,Gloucester,Northampton,1.6400000000000001,19.17,2.25
+01/Sep/2012,Worcester,Bath,2.51,19.17,1.53
+01/Sep/2012,Wasps,Harlequins,3.0,20.0,1.3900000000000001

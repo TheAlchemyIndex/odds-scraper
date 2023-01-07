@@ -1,5 +1,5 @@
-from osm.premiershipRugby.oddsPortal.scraper.pageHtml.HtmlParser import parse
-from osm.premiershipRugby.oddsPortal.scraper.pageHtml.TagExtractor import tag_extractor
+from mos.premiershipRugby.oddsPortal.scraper.pageHtml.HtmlParser import parse
+from mos.premiershipRugby.oddsPortal.scraper.pageHtml.TagExtractor import tag_extractor
 
 
 def scrape_results(url):
@@ -12,5 +12,5 @@ def scrape_results(url):
     # Extracts data in div tags from url
     divs = parse(url)
 
-    # Creates and returns dictionary of odds information about each match from divs
+    # Creates and returns a list of dictionaries of odds information about each match from divs
     return tag_extractor(divs)
