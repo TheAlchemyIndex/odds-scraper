@@ -1,5 +1,5 @@
-from mos.premiershipRugby.oddsPortal.scraper.pageHtml.HtmlParser import parse
-from mos.premiershipRugby.oddsPortal.scraper.pageHtml.TagExtractor import tag_extractor
+from osm.premiershipRugby.oddsPortal.scraper.pageHtml.HtmlParser import parse
+from osm.premiershipRugby.oddsPortal.scraper.pageHtml.TagExtractor import tag_extractor
 
 
 def scrape_results(url):

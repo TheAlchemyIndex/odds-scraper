@@ -1,6 +1,6 @@
-from mos.premiershipRugby.oddsPortal.constants import Columns
-from mos.premiershipRugby.oddsPortal.scraper.seasons.SeasonScraper import scrape_results
-from mos.premiershipRugby.oddsPortal.scraper.writers.CsvWriter import write_to_csv
+from osm.premiershipRugby.oddsPortal.constants import Columns
+from osm.premiershipRugby.oddsPortal.scraper.seasons.SeasonScraper import scrape_results
+from osm.premiershipRugby.oddsPortal.scraper.writers.CsvWriter import write_to_csv
 
 # Constant list for field names
 FIELD_NAMES = [Columns.DATE, Columns.TEAM1_NAME, Columns.TEAM2_NAME, Columns.TEAM1_ODDS, Columns.DRAW_ODDS,

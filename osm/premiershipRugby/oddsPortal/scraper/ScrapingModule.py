@@ -1,4 +1,4 @@
-from mos.premiershipRugby.oddsPortal.scraper.writers.FileWriter import write_to_individual_files
+from osm.premiershipRugby.oddsPortal.scraper.writers.FileWriter import write_to_individual_files
 
 
 def write_all_odds(first_season_start, first_season_end, last_season):
